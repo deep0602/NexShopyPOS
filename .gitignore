@@ -1,0 +1,14 @@
+# Ignore all node_modules folders recursively
+node_modules/
+
+# Ignore environment variable files
+**/.env
+
+# Logs
+*.log
+
+*.db
+
+*.Rhistory
+
+*.DS_Store
